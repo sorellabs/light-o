@@ -1,13 +1,9 @@
 Light-O
 =======
 
-[![Build Status](https://travis-ci.org/robotlolita/light-o.png)](https://travis-ci.org/robotlolita/light-o)
 [![Dependencies Status](https://david-dm.org/robotlolita/light-o.png)](https://david-dm.org/robotlolita/light-o.png)
 [![NPM version](https://badge.fury.io/js/light-o.png)](http://badge.fury.io/js/light-o)
 [![stable](http://hughsk.github.io/stability-badges/dist/stable.svg)](http://github.com/hughsk/stability-badges)
-
-
-[![browser support](http://ci.testling.com/robotlolita/light-o.png)](http://ci.testling.com/robotlolita/light-o)
 
 
 Minimally minimal prototypical OO library.
